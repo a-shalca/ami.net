@@ -1,12 +1,4 @@
 # ami.net
-<html>
-<head>
-<title> INTERSPORT WEB </title>
-<style>
-table, th, td{
-   border: 2px black;
-}
-</style>
 
 <body>
 
